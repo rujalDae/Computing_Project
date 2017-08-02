@@ -1,0 +1,24 @@
+Finance team
+ Charles
+ Lisa
+ John
+<<<<<<< HEAD
+ In master1
+ In Master2
+
+=======
+Morgan
+>>>>>>> marketing
+
+Marketing team
+ Collins
+ Linda
+ Patricia
+<<<<<<< HEAD
+ Morgan 
+ Yes
+=======
+ Amanda
+
+
+>>>>>>> marketing

@@ -3,6 +3,8 @@ Finance team
  Lisa
  John
 Morgan
+finance team1
+finance team2
 
 Marketing team
  Collins
