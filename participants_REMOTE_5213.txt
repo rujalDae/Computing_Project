@@ -2,12 +2,10 @@ Finance team
  Charles
  Lisa
  John
-Morgan
 
 Marketing team
  Collins
  Linda
  Patricia
- Amanda
-
-
+ Morgan 
+ YES
