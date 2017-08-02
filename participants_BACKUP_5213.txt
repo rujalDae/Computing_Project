@@ -2,14 +2,15 @@ Finance team
  Charles
  Lisa
  John
-Morgan
 
 Marketing team
  Collins
  Linda
  Patricia
-
+<<<<<<< HEAD
+ Morgan
 Amanda
-
+=======
+ Morgan 
  YES
-
+>>>>>>> master
